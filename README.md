@@ -1,6 +1,6 @@
 # basic_api
 
-A new Flutter project.
+A new Flutter project to practice using API
 
 ## Getting Started
 
